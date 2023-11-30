@@ -1,7 +1,7 @@
 # Intro
-This [page](https://irismaxj.github.io/DS_FoodFactAnalysis/) a showcase of the big-data analytic project -- Food Facts Analysis. 
+This page (https://irismaxj.github.io/DS_FoodFactAnalysis/) a showcase of the big-data analytic project -- Food Facts Analysis. 
 * Data Source: [Open Food Facts](https://github.com/openfoodfacts), [Ooen Food Facts Official Website](https://world.openfoodfacts.org/discover)
-* Note: the project was done in `.ipynb` notebook environment.
+* Note: the project was done in the `.ipynb` notebook environment.
 
 ## Data Science Techniques used:
 * Data Cleaning
